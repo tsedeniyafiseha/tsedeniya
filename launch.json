@@ -1,0 +1,14 @@
+{
+    "name": "C++ Launch (Windows)",
+    "type": "cppvsdbg",
+    "request": "launch",
+    "program": "CC:\\Users\\hp\\Desktop\\lab\\main2.exe",
+    "symbolSearchPath": "C:\\Symbols;C:\\SymbolDir2",
+    "externalConsole": true,
+    "logging": {
+      "moduleLoad": false,
+      "trace": true
+    },
+    "visualizerFile": "${C:\\MinGW\\bin}/gdb.exe",
+    "showDisplayString": true
+  }
