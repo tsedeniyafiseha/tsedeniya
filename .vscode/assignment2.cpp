@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     cout << "Welcome to the Product Sales and Inventory Analyzer!" << endl;
     cout << "This program helps analyze sales and inventory status for a store." << endl;
-    cout << "Reminder: C++ is a compiled language!\n" << endl;
+    cout << " C++ is a compiled language!\n" << endl;
 
     string productName;
     int productCategory;
